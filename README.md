@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cortegaopefar
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C# (Minimal API)
+- 📫 How to reach me @atrox39
+- 😄 Pronouns: F16
+- ⚡ Fun fact: I play video games in my free time
